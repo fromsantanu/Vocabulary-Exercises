@@ -1,4 +1,4 @@
-# Vocabulary Exercises VII
+# Vocabulary Exercise VII
 
 Here is a set of 30 vocabulary exercises in the context of "Hobbies." The task is to find the appropriate word based on the given explanation or meaning and then make a sentence using that word.
 

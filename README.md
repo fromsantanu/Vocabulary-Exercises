@@ -10,4 +10,4 @@
 - [Exercise VII](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Exercise07.md) and its [Answers](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Answer07.md)
 - [Exercise VIII](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Exercise08.md) and its [Answers](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Answer08.md)
 - [Exercise IX](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Exercise09.md) and its [Answers](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Answer09.md)
-- [Exercise X]([#](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Exercise10.md)) and its [Answers](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Answer10.md)
+- [Exercise X](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Exercise10.md) and its [Answers](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Answer10.md)

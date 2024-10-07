@@ -1,7 +1,7 @@
 # Vocabulary-Exercises
 
 ## List of Exercises
-- [Exercise I]([#](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Exercise01.md)) and its [Answers](#)
+- [Exercise I](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Exercise01.md) and its [Answers](https://github.com/fromsantanu/Vocabulary-Exercises/blob/main/Pages/Answer01.md)
 - [Exercise II](#) and its [Answers](#)
 - [Exercise III](#) and its [Answers](#)
 - [Exercise IV](#) and its [Answers](#)
